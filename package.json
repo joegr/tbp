@@ -1,0 +1,31 @@
+{
+  "name": "tbp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "tbp",
+  "author": "joegr",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "gatsby": "^2.32.3",
+    "gatsby-plugin-sass": "^3.2.0",
+    "node": "^15.12.0",
+    "node-sass": "^5.0.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.5.0",
+    "react-chartjs-2": "^2.11.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-social-icons": "^4.1.0",
+    "sass": "^1.32.8"
+  }
+}
